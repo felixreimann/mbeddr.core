@@ -131,13 +131,6 @@
       <concept id="661141253149231475" name="com.mbeddr.cc.var.annotations.structure.PresenceCondition" flags="ng" index="2dvt44">
         <child id="661141253149231543" name="condition" index="2dvt70" />
       </concept>
-      <concept id="6617704999132114000" name="com.mbeddr.cc.var.annotations.structure.ConfigurationMapping" flags="ng" index="IjAfM">
-        <reference id="6617704999132114002" name="featureModel" index="IjAfK" />
-        <reference id="6617704999132114003" name="configurationModel" index="IjAfL" />
-      </concept>
-      <concept id="6514264311693667923" name="com.mbeddr.cc.var.annotations.structure.VariabilityConfigItem" flags="ng" index="35TzUN">
-        <child id="4920787109780106774" name="mappings" index="19yoJo" />
-      </concept>
       <concept id="2613872510229259997" name="com.mbeddr.cc.var.annotations.structure.ConditionalReplacement" flags="ng" index="3o6v7J">
         <child id="2613872510229260000" name="replacement" index="3o6v7i" />
         <child id="2613872510229260001" name="condition" index="3o6v7j" />
@@ -608,12 +601,6 @@
     </node>
     <node concept="2Q9Fgs" id="5kSKC2jilGU" role="2Q9xDr">
       <node concept="2Q9FjX" id="5kSKC2jilGV" role="2Q9FjI" />
-    </node>
-    <node concept="35TzUN" id="5kSKC2jilp8" role="2Q9xDr">
-      <node concept="IjAfM" id="16nA7ym_ZaO" role="19yoJo">
-        <ref role="IjAfK" node="5JmNU9PAoEM" resolve="DeploymentConfiguration" />
-        <ref role="IjAfL" node="5JmNU9PAoER" resolve="Debug" />
-      </node>
     </node>
     <node concept="12mU2y" id="3mKW6ZYgyjC" role="2Q9xDr">
       <node concept="3GpDuo" id="3mKW6ZYgyjD" role="3GpDut" />
