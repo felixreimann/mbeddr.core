@@ -8555,6 +8555,12 @@
               <ref role="3bR37D" node="8QLzVTtwaG" resolve="com.mbeddr.cc.var.annotations#6514264311693705814" />
             </node>
           </node>
+          <node concept="1SiIV0" id="6p6ngneEKVW" role="3bR37C">
+            <node concept="3bR9La" id="6p6ngneEKVX" role="1SiIV1">
+              <property role="3bR36h" value="false" />
+              <ref role="3bR37D" to="al5i:$bJ0jguQfJ" resolve="com.mbeddr.core.base#8626086128958648025" />
+            </node>
+          </node>
         </node>
         <node concept="1SiIV0" id="7eF9rfAnukt" role="3bR37C">
           <node concept="1Busua" id="7eF9rfAnuku" role="1SiIV1">
